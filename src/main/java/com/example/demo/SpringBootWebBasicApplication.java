@@ -8,6 +8,7 @@ public class SpringBootWebBasicApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWebBasicApplication.class, args);
+		//This returns an application context
 	}
 
 }
